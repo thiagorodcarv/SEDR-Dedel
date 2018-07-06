@@ -1,0 +1,17 @@
+INFO: [SIM 2] *************** CSIM start ***************
+WARNING: [SIM 51] HLS only supports CLANG compiler in Linux.
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../test_core.cpp in debug mode
+   Compiling ../../../TestUtils.cpp in debug mode
+   Compiling ../../../core.cpp in debug mode
+   Generating csim.exe
+Load image c:\Users\thiag\Downloads\imgBig_lena.bmp
+Image Rows:320 Cols:240
+Calling Reference function
+Reference function ended
+Saving image Ref
+Calling Core function
+Core function ended
+Saving image
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
